@@ -21,7 +21,8 @@
 ```sh
   .\descargarVideo-v1.ps1
   ```
-  
+5. Reproducir el video generado
+
  ## Ejercicios a Desarrollar
 1. Realiza un FORK del proyecto en tu GITHUB y clona el repositorio a tu ordenador local
 2. Mejora el SCRIPT para que a partir de la URL del video original se genere automáticamente la URL de la API
