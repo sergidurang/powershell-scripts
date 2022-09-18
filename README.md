@@ -1,5 +1,5 @@
 # POWERSHELL SCRIPTS
-<hr>
+
 ## Descripción
 
 <p>Script que automatiza la descarga de un video generado por partes de manera dinámica.</p>
