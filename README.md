@@ -1,5 +1,7 @@
 # POWERSHELL SCRIPTS
 
+<p>Proyecto destinado a <strong>FINES EDUCATIVOS</storng></p>
+
 ## Descripción
 
 <p>Script que automatiza la descarga de un video generado por partes de manera dinámica.</p>
